@@ -19,6 +19,8 @@
      - [3D库](#features)
      - [HTML生成图片](#features)
      - [懒加载](#features)
+     - [自动补全](#features)
+     - [树插件](#features)
   - [图片类插件](#images)
   - [移动端插件](#mobile)
   - [其他类插件](#other)
@@ -44,8 +46,9 @@
 
 - [Swiper](http://www.swiper.com.cn) - 强大的 Slider 库 其实这类效果库非常多，但文档能那么专业的就很少鸟
 <h6 id="features">表单验证</h6>
-
 - [Verify](http://www.jq22.com/jquery-info6134) - 一套完整的用户注册前端校验，包含用户名，密码强度，显示隐藏密码，手机号输入控制手机验证码，真实姓名，身份证号等验证。
+- [Verify](https://github.com/validatorjs/validator.js) - String validation. 字符串验证库
+
 <h6 id="features">日期控件</h6>
 
 - [daterangepicker](http://www.daterangepicker.com) - 时间选择插件的不二选择，基于 ```Bootstrap``` 和 [Moment.js](http://momentjs.com/)
@@ -57,6 +60,7 @@
 <h6 id="features">拖拽类插件</h6>
 
 - [Sortable](https://github.com/RubaXa/Sortable) - 拖拽神器，用了就知道
+- [dragula](https://github.com/bevacqua/dragula) - 不依赖jq的原生js拖拽插件, 功能也更简洁
 <h6 id="features">省市联动</h6>
 
 - [jquery.cityselect](https://github.com/akveo/blur-admin) - jQuery+JSON的省市三级、二级联动插件制订此文档。
@@ -69,6 +73,11 @@
 <h6 id="features">懒加载</h6>
 
 - [jquery.lazyload](http://www.jq22.com/yanshi390) - jQuery图片延迟加载插件jQuery.lazyload,使用延迟加载在可提高网页下载速度。在某些情况下，它也能帮助减轻服务器负载。
+
+<h6 id="features">自动补全</h6>
+- [jquery-autocompleter](https://github.com/fitiskin/jquery-autocompleter) - 搜索框根据关键字出现查询字符串下拉效果
+<h6 id="features">树插件</h6>
+- [zTree](https://github.com/zTree/zTree_v3) - zTree 是一个依靠 jQuery 实现的多功能 “树插件”
 
 <h5 id="images">图片类插件</h5>
 
